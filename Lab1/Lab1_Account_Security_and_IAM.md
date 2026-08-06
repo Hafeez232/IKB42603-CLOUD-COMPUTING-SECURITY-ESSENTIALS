@@ -134,7 +134,7 @@ aws $EP iam list-access-keys --user-name Analyst_Riven
 
 The screenshot shows the key with status `Active`. Access keys are sensitive long-lived credentials and must not be exposed, committed to source control, or placed in reports in an unredacted form.
 
-<img width="761" height="378" alt="4-create access key" src="https://github.com/user-attachments/assets/c4acb4f7-9bed-4e4f-82dc-259f49f69996" />
+<img width="761" height="378" alt="4-create access key" src="https://github.com/user-attachments/assets/e5ea10da-d0f9-4641-b031-1cfe04abac26" />
 
 The old key was then rotated by setting its status to `Inactive`:
 
