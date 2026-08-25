@@ -3,7 +3,7 @@
 | | |
 |---|---|
 | **Course** | IKB42603 Cloud Computing Security Essentials |
-| **Lab** | Lab 0 - Environment Setup |
+| **Lab** | Lab 1 - Account Security and IAM |
 | **Name** | MUHAMMAD HAFEEZ BIN MOHD RADZI |
 | **Student ID** | 52215226085 |
 
